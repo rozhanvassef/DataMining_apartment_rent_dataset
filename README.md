@@ -12,3 +12,5 @@ The project includes:
   -Statistical analysis to gain deeper insights into rental pricing patterns.
 
 This analysis provides meaningful insights into how different factors, such as amenities and house characteristics, affect rental prices.
+
+The 'apartment_ren.csv' which is the main dataset ,and 'dallas.png' which is needed in the part 3 of the project are uploaded.
